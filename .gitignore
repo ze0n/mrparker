@@ -1,0 +1,8 @@
+*.jpg
+*/.ipynb_checkpoints
+*/.idea
+*.iml
+*.log
+*.csv
+*.json
+*.txt
